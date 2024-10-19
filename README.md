@@ -4,7 +4,7 @@ Hi 👋 My name is Fabian Sander-Pirva
 I'm a Junior Developer
 ----------------------
 
-I currently work with C#, MSSQL and some devops operations with Linux server. I have been learning programming for 4 years, partly self-taught. In my apprenticeship I started with Shopware 5 and some Javascript, then I switched and specialised in Java and Oracle SQL, so the switch to C# and MSSQL was easy because of the similarity. You never stop learning, and that's a good thing.
+I currently work with C#, .NET, and MSSQL. I have been programming for four years, combining formal education with self-taught learning. During my apprenticeship, I started with Shopware 5 and JavaScript, before transitioning to Java and Oracle SQL. This background made the switch to C# and MSSQL straightforward due to the similar concepts. I believe in continuous learning and enjoy taking on new challenges to expand my knowledge in software development.
 
 *   🌍  I'm based in Nürnberg 📍 Frankonia, BY
 *   🖥️  See my portfolio at [to be updated soon](http://fabiansanderpirva.de)
