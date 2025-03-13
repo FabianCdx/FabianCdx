@@ -9,8 +9,10 @@ I currently work with C#, .NET, and MSSQL. I have been programming for four year
 *   🌍  I'm based in Nürnberg 📍 Frankonia, BY
 *   🖥️  See my portfolio at [to be updated soon](http://fabiansanderpirva.de)
 *   ✉️  You can contact me at [fabiansanderpirva@protonmail.com](mailto:fabiansanderpirva@protonmail.com)
-*   🧠  I'm learning a lot
-*   ⚡  One of us is smarter than you!### Skills
+*   🧠  Never stop learning
+*   ⚡  No time to waste
+
+### Skills
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
